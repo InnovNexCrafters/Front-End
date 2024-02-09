@@ -11,8 +11,7 @@ import styled from 'styled-components';
 import './App.css'
 import TabPanel from './Tabs';
 import a11yProps from './Tabs';
-//import styled components from view
-import style , { components } form 'react';
+
 
 import { ChatBox, ChatBoxContainer, ChatInputBox, HeaderContainer2, TabContainer, ViewContainerRoot, HeaderContainer, 
         LogoContainer, LogoText, LogoImage, CodeEditorRectangle, LiveCodeContainer, FileNameContainer, FileNameInputStyle, 
